@@ -29,7 +29,7 @@ sudo python3 manage.py runserver 0.0.0.0:80
 -------------------deploy server ubuntu django---------------------------
 0.click ssh to run cmd google
 1.sudo apt-get update
-2.git clone https://github.com/trinityroots/mots_jwt_token.git
+2.git clone https://github.com/MickeyProject/google-cloud-platform-django.git
 3.sudo apt-get install python3-pip
 4.y
 5.ls find file where
