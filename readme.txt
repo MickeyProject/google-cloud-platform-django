@@ -32,7 +32,7 @@ sudo python3 manage.py runserver 0.0.0.0:80
 2.git clone https://github.com/MickeyProject/google-cloud-platform-django.git
 3.sudo apt-get install python3-pip
 4.y
-5.ls find file where
+5.ls <- find file where
 6.cd mots_jwt_token <- file
 6.sudo pip3 install -r requirements.txt
 7.ls
