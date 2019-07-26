@@ -33,7 +33,7 @@ sudo python3 manage.py runserver 0.0.0.0:80
 3.sudo apt-get install python3-pip
 4.y
 5.ls <- find file where
-6.cd mots_jwt_token <- file
+6.cd <- file
 6.sudo pip3 install -r requirements.txt
 7.ls
 8.go to django_jwt
