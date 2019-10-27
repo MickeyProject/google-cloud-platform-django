@@ -9,6 +9,7 @@ sudo python3 manage.py runserver 0.0.0.0:80
 virtualenv env
 pip install gunicorn
 pip install django
+pip freeze > requirements.txt
 ก่อนด้วย
 
 
