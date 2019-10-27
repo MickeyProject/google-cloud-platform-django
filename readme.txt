@@ -6,6 +6,7 @@ sudo python3 manage.py runserver 0.0.0.0:80
 
 
 ต้องทำProcfile
+virtualenv env
 pip install gunicorn
 pip install django
 ก่อนด้วย
