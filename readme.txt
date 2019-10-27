@@ -48,9 +48,9 @@ pip freeze > requirements.txt
 12.y
 13.enter
 ไปที่อยู่ไฟล์manage.py
-14.sudo python3 manage.py runserver 0.0.0.0:80
-15.screen
-16.Kill all node
+14.sudo python3 manage.py runserver 0.0.0.0:80 กด ctrl + c
+15.พิมว่าscreen
+16.พิมว่าKill all node
 17.sudo python3 manage.py runserver 0.0.0.0:80
 18.ctrl+a
 19.alt+a
